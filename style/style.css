@@ -1,0 +1,11 @@
+.form {
+    width: 600px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#digits {
+    width: 50px;
+    margin: 10px;
+}
